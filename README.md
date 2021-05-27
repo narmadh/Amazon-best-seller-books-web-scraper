@@ -4,7 +4,7 @@ A Python code to extract top 100 books from Amazon
 
 This code was developed on vs code using Python 3.7.4
 
-The objective is to extract the following details from the Amazon Review web pages for a list of products
+The objective is to extract the following details from the Amazon web pages
    - Book name
    - Author name
    - Rating
